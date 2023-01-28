@@ -1,0 +1,15 @@
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\bin\Debug\net7.0\1.4.exe
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\bin\Debug\net7.0\1.4.deps.json
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\bin\Debug\net7.0\1.4.runtimeconfig.json
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\bin\Debug\net7.0\1.4.dll
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\bin\Debug\net7.0\1.4.pdb
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.csproj.AssemblyReference.cache
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.AssemblyInfoInputs.cache
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.AssemblyInfo.cs
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.csproj.CoreCompileInputs.cache
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.dll
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\refint\1.4.dll
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.pdb
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\1.4.genruntimeconfig.cache
+C:\Users\mahov\OneDrive\Рабочий стол\C#\1.4\obj\Debug\net7.0\ref\1.4.dll
